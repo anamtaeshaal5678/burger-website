@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.scrollbar-hide::wthit-scrollbar{
+    display: none;
+}
+
+.scrollbar-hide{
+    .ms-scrollbar-style: none;
+    scrollbar-width: none;
+}
