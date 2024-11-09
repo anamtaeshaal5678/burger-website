@@ -1,5 +1,3 @@
-import Link from 'next/link';
-import image from 'next/image';
 import React from 'react';
 export default function carouselItems() {
   return (
